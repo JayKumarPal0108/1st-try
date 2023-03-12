@@ -1,6 +1,6 @@
 <html>
 <head>
-Nirvana.co
+Nirvana.com
 </head>
 <body><center>
 <h1>Nirvana</h1>
